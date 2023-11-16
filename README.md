@@ -1,3 +1,3 @@
 # FSSI
 
-Full credit for the scripts to #Filip Dubovský
+Full credit for the scripts to # Filip Dubovský
